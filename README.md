@@ -8,15 +8,15 @@ This is an example debug view written by Emre AYDIN on 02.24.2023<br>
 <table>
   <tr>
     <td>
-        <img src="/screenshots/1.jpg">
+        <img src="/screenshots/1.png">
     </td>
     <td>
-        <img src="/screenshots/2.jpg">
+        <img src="/screenshots/2.png">
     </td>
   </tr>
   <tr>
     <td>
-        <img src="/screenshots/3.jpg">
+        <img src="/screenshots/3.png">
     </td>
     <td></td>
   </tr>
